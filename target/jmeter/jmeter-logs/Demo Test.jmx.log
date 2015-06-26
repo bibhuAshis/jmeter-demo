@@ -1,0 +1,51 @@
+2015/06/26 12:31:33 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: Loading user properties from: C:\Users\A042905\Maven Project\jmeter-demo\target\jmeter\bin\user.properties 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: Loading system properties from: C:\Users\A042905\Maven Project\jmeter-demo\target\jmeter\bin\system.properties 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: Copyright (c) 1998-2012 The Apache Software Foundation 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: Version 2.6 r1237317 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: java.version=1.8.0_45 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: os.name=Windows 7 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: os.arch=amd64 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: os.version=6.1 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: file.encoding=Cp1252 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: JMeterHome=c:\Users\A042905\Maven Project\jmeter-demo\target\jmeter 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: user.dir  =c:\Users\A042905\Maven Project\jmeter-demo\target\jmeter\bin 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: PWD       =C:\Users\A042905\Maven Project\jmeter-demo\target\jmeter\bin 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: IP: 10.113.127.136 Name: G1YQ5Z1 FullName: G1YQ5Z1.dist.target.com 
+2015/06/26 12:31:33 INFO  - jmeter.services.FileServer: Default base='c:\Users\A042905\Maven Project\jmeter-demo\target\jmeter\bin' 
+2015/06/26 12:31:33 INFO  - jmeter.services.FileServer: Set new base='c:\Users\A042905\Maven Project\jmeter-demo\src\test\jmeter' 
+2015/06/26 12:31:33 INFO  - jmeter.JMeter: Loading file: c:\Users\A042905\Maven Project\jmeter-demo\src\test\jmeter\Demo Test.jmx 
+2015/06/26 12:31:34 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2015/06/26 12:31:34 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2015/06/26 12:31:34 INFO  - jmeter.save.SaveService: Using SaveService properties file version 1234216 
+2015/06/26 12:31:34 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.2 
+2015/06/26 12:31:34 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2015/06/26 12:31:34 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Cannot find .className property for htmlParser, using default 
+2015/06/26 12:31:34 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is  
+2015/06/26 12:31:34 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is  
+2015/06/26 12:31:34 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is  
+2015/06/26 12:31:34 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is  
+2015/06/26 12:31:34 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2015/06/26 12:31:34 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Reuse SSL session context on subsequent iterations: true 
+2015/06/26 12:31:34 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2015/06/26 12:31:34 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2015/06/26 12:31:34 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2015/06/26 12:31:34 INFO  - jmeter.JMeter: Running test (1435302094438) 
+2015/06/26 12:31:34 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Thread Group. 
+2015/06/26 12:31:34 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2015/06/26 12:31:34 INFO  - jmeter.threads.JMeterThread: jmeterthread.startearlier=true (see jmeter.properties) 
+2015/06/26 12:31:34 INFO  - jmeter.threads.JMeterThread: Running PostProcessors in forward order 
+2015/06/26 12:31:34 INFO  - jmeter.engine.StandardJMeterEngine: All threads have been started 
+2015/06/26 12:31:34 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
+2015/06/26 12:31:34 INFO  - jmeter.protocol.http.sampler.HTTPJavaImpl: Maximum connection retries = 10 
+2015/06/26 12:31:34 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2015/06/26 12:31:34 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2015/06/26 12:31:34 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2015/06/26 12:31:34 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2015/06/26 12:31:36 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
+2015/06/26 12:31:36 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Thread Group 1-1 
+2015/06/26 12:31:36 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2015/06/26 12:31:36 INFO  - jmeter.engine.StandardJMeterEngine: Test has ended on host null 
